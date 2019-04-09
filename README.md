@@ -5,13 +5,6 @@ This full-stack site will take in results from users' surveys, then compare thei
 ## Survey
 ![Image of Survey](https://github.com/rnguyen05/FriendFinder/blob/master/screenshots/survey.png?raw=true)
 
-## Modals
-* Matched Friend Found <br/>
-![Image of New Friend](https://github.com/rnguyen05/FriendFinder/blob/master/screenshots/newfriend1.png?raw=true)
-
-* Missing Required Information <br/>
-![Image of Missing Required Informaiton](https://github.com/rnguyen05/FriendFinder/blob/master/screenshots/missingrequiredinformation.png?raw=true)
-
 ## Technologies Used
 * Javascript
 * Node JS
@@ -53,5 +46,5 @@ This full-stack site will take in results from users' surveys, then compare thei
 
 ## Getting Started
 * Locally: Clone GitHub repository, run npm install, then run node server.js in the terminal. Copy localhost:3001 and paste in browser to see app.
-* Run on Heroku server: https://friendfinder-052018.herokuapp.com/
+* Run on Heroku server: https://friend-match2019.herokuapp.com/
 
