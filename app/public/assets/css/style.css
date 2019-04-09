@@ -1,0 +1,75 @@
+
+#surveyBtn {
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 80px;
+    color: white;
+    -webkit-text-stroke: 2px black;
+    text-shadow: 3px 3px gray;
+    border-bottom: 1px grey solid;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.h2-custom {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h5 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+    color: gray;
+    margin-right: 10px;
+    margin-left: 3px;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.custom-bg {
+    background-color: gray;
+    background-blend-mode: lighten;
+}
+
+@media(max-width: 480px) {
+    h1 {
+        font-size: 35pt;
+    }
+
+    h2 {
+        font-size: 12pt;
+    }
+
+    h3 {
+        font-size: 12pt;
+    }
+    a {
+        font-size: 12pt;
+    }
+}
+
+
