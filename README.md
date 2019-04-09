@@ -55,5 +55,3 @@ This full-stack site will take in results from users' surveys, then compare thei
 * Locally: Clone GitHub repository, run npm install, then run node server.js in the terminal. Copy localhost:3001 and paste in browser to see app.
 * Run on Heroku server: https://friendfinder-052018.herokuapp.com/
 
-## Demo Video
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/xRSCS6ieZMw/2.jpg?time=1527379686454)](https://youtu.be/xRSCS6ieZMw)
